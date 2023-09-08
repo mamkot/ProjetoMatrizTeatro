@@ -17,11 +17,12 @@ Projeto desenvolvido como parte do 1° ano no curso de Desenvolvimento de Sistem
   
 ![ProjetoMatrizTeatro](https://github.com/mamkot/ProjetoMatrizTeatro/assets/102431539/b817c5d6-8806-4b78-a410-47ac0d66f384)
 
-<h3>"Tratamento de erros e validações de entrada do usuário"</h3>
-
-![Tratamento de erros](https://github.com/mamkot/ProjetoMatrizTeatro/assets/102431539/2d3c69c0-629a-4575-a04b-56ef1bc8984e)
-
 </h1>
+
+<h3 align="center">Tratamento de erros e validações de entrada do usuário<p>
+  
+![Tratamento de erros](https://github.com/mamkot/ProjetoMatrizTeatro/assets/102431539/2d3c69c0-629a-4575-a04b-56ef1bc8984e)
+</h3>
 
 ### Ferramentas
 
